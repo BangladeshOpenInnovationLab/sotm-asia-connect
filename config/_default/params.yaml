@@ -21,8 +21,8 @@ links:
   - telegram: https://t.me/+nUCQpqtFzy84ZmY1
   - email: stateofthemapasia@gmail.com
   - linkedin: https://www.linkedin.com/company/state-of-the-map-asia/
-  - link: https://lists.openstreetmap.org/listinfo/talk-asia/ # mailing list
-  - link: https://www.facebook.com/SotmAsia/ # Facebook
+  - mailing-list: https://lists.openstreetmap.org/listinfo/talk-asia/ # mailing list
+  - facebook: https://www.facebook.com/SotmAsia/ # Facebook
 
 
   # - reddit: 
