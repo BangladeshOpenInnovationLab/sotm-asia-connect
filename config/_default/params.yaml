@@ -3,30 +3,33 @@
 ############################
 
 author:
-  name: "L1nkr"
+  name: "State of the Map Asia"
   image: author.png
-  greeting: "A simple LinkTree theme for Hugo :evergreen_tree:"
-  icon: ":wave:"
+  greeting: "Stay Connected with State of the Map Asia 🗺️🌏️"
+  icon: "🔗"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/chrede88/L1nkr
-  - link: https://github.com/Chrede88/L1nkr#readme
-  - website: https://gohugo.io
-  # - x-twitter: 
-  # - mastodon: 
-  # - linkedin: 
-  # - instagram: 
+  - website: https://stateofthemap.asia/
+  - github: https://github.com/sotm-asia/
+  - instagram: https://www.instagram.com/stateofthemap_asia/
+  - x-twitter: https://x.com/SotmAsia/
+  - mastodon: https://en.osm.town/@sotmasia/
+  - telegram: https://t.me/+nUCQpqtFzy84ZmY1
+  - email: stateofthemapasia@gmail.com
+  - linkedin: https://www.linkedin.com/company/state-of-the-map-asia/
+  - link: https://lists.openstreetmap.org/listinfo/talk-asia/ # mailing list
+  - link: https://www.facebook.com/SotmAsia/ # Facebook
+
+
   # - reddit: 
-  # - telegram: 
   # - whatsapp: 
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -85,7 +88,7 @@ tooltip: true
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "L1nkr"
-description: "Demo site build with L1nkr & Hugo"
+title: "State of the Map Asia Socail Links"
+description: "All social media links for State of the Map Asia"
 images:
   - thumbnail.png
