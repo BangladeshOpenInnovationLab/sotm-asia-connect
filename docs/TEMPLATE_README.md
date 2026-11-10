@@ -151,5 +151,3 @@ Next time you publish a release this workflow will build and deploy your site :t
 
 Your site will be published to the following URL:
 `https://<username>.github.io/<repo>`, where `<username>` and `<repo>` is your Github username and the name of your repository.
-
-
