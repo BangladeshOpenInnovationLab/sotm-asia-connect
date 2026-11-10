@@ -2,7 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://fazlerabbi37.github.io/sotm-asia-connect'
+baseURL: 'https://sotm-asia.github.io/connect/'
+# baseURL: 'https://connect.stateofthemap.asia'
 title: 'Connect with SotM Asia'
 
 ############################
@@ -21,5 +22,3 @@ module:
 enableEmoji: true
 disableKinds: ['taxonomy', 'term']
 languageCode: 'en-us'
-
-
